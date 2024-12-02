@@ -1,4 +1,4 @@
-# live-chat
+# erp-frontend
 
 ## Project setup
 ```
